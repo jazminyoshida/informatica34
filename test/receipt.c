@@ -17,6 +17,6 @@ int main(void){
 
     printf("item: %c \n", item);
     printf("price: %f \n", price);
-    printf("quantity: %d \n", quamtity);
+    printf("quantity: %d \n", quantity);
 
 }
