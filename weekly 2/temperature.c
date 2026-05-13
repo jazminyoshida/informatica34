@@ -5,7 +5,7 @@ int main(void){
     float far;
     printf("F= \n");
     scanf("%f",&far);
-    cel =(f-32)/1.8;
+    cel =(F-32)/1.8;
     printf("Farenheit: %f \n", far);
     printf("celsius: %f \n", cel);
 }
