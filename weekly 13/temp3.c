@@ -7,7 +7,7 @@ int main(void){
 printf("Temprature Converter \n");
 printf("1. Celsius to Fahrenheit \n");
 printf("2. Fahrenheit to Celsius \n");
-printf("Enter your otion: ");
+printf("Enter your option: ");
 int user_response;
 scanf("%d", &user_response);
 
